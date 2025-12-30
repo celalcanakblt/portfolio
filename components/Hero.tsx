@@ -28,7 +28,7 @@ const Hero: React.FC = () => {
         <Reveal delay={200}>
           <div className="flex items-center justify-center gap-3 text-xl md:text-2xl text-slate-300 font-light mb-8">
             <Server size={24} className="text-slate-500" />
-            <span>Sistem & Veri Merkezi</span>
+            <span>Sistem ve Veri Merkezi</span>
             <span className="text-slate-600">/</span>
             <span> Monitoring & Destek Uzmanı</span>
           </div>
