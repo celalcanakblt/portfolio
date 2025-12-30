@@ -47,7 +47,7 @@ const currentProjects: ExperienceItem[] = [
   {
     id: "magdeburger",
     company: "MAGDEBURGER SİGORTA",
-    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWRATjxWc66KTeCAcJOADjLFMA23iXxdMuQ&s",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Magdeburger_Logo.png",
     role: "L1 Sistem İzleme",
     description: "Kubernetes, Zabbix, System Resources",
     details: [
