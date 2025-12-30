@@ -28,17 +28,17 @@ const Hero: React.FC = () => {
         <Reveal delay={200}>
           <div className="flex items-center justify-center gap-3 text-xl md:text-2xl text-slate-300 font-light mb-8">
             <Server size={24} className="text-slate-500" />
-            <span>System Monitoring</span>
+            <span>Sistem & Veri Merkezi</span>
             <span className="text-slate-600">/</span>
-            <span>Support Specialist</span>
+            <span> Monitoring & Destek Uzmanı</span>
           </div>
         </Reveal>
 
         <Reveal delay={300}>
           <p className="text-slate-400 text-lg leading-relaxed max-w-2xl mx-auto mb-10">
-            Linux, Windows, Oracle, ODI ve DWH sistemlerinde uzmanlaşmış; 
-            Büyük ölçekli (Sigorta, Finans, Lojistik) şirketlerin sunucu altyapılarında 
-            problem çözümü, kök neden analizi ve operasyonel süreklilik sağlayan deneyimli sistem uzmanı.
+            Linux, Windows, Unix, tabanlı sunucuların (QA, PROD, DEV, TEST, BACKUP), L1 & L2 Seviyede müdahalesi,
+            monitoring, kök neden analizi, raporlanması, çözüme kavuşturulması, konularında Sistem İzleme ve Destek Uzmanı
+            olarak görev almaktayım.
           </p>
         </Reveal>
 
